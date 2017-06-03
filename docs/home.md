@@ -1,4 +1,4 @@
-<img src="/images/vincent-profile.jpg" width="20%">
+<img src="/docs/images/vincent-profile.jpg" width="20%">
 
 # Vincent Breslin
 
