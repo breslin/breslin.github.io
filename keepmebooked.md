@@ -1,9 +1,13 @@
 # Keepmebooked: B2B Property Management Software
-Our business objective was to transition the product from focusing on customers in the hotel industry to those in the vacation rental industry. A secondary objective was to overhaul the user experience and refresh the user interface. This migration also came with the technical challenge of scaling a legacy codebase to a userbase of 50,000+ (from under 1,000).
+Our business objective was to transition the product from focusing on customers in the hotel industry to those in the vacation rental industry. A secondary objective was to overhaul the user experience and refresh the user interface. This migration also came with the technical challenge of scaling a legacy codebase to a userbase of 50,000+ (from under 1,000) through partnership with HouseTrip - one of the leading vacation rental booking sites (similar to Airbnb).
 
 **My role**: Hands-on Managing Director leading a team of 10 developers and designers.
 
 **Platform**: Web & native mobile.
+
+I created the following document over the course of a few days as part of my hiring process. I was given access to research and asked how I would lead the business to acheive the above objectives. The proposition changed significantly once I had carried out extensive customer development and had the opportunity to work on the project for a number of months. Nonetheless it gives a good idea of where I started.
+
+<object width="100%" height="600" data="/images/mvp_proposal.pdf"></object>
 
 ## Task #1: Understanding the customer
 
@@ -155,5 +159,9 @@ With the final screen mockups completed our designer got to work on the user int
 <img src="/images/trap_day.png" width="33%">
 <img src="/images/Success.png" width="33%">
 
+## Results
 
+We were halfway through the redevelopment of the web (we decided to rebuild the codebase from scratch as the legacy codebase was unscalable) and mobile app when the business was acquired by TripAdvisor and discontinued.
+
+Prior to discontinuation I increased Average Revenue per User (ARPU) of the legacy app by 25% by focusing on killer features and optimising work flows.
 
