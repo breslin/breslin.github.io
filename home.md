@@ -1,8 +1,10 @@
-<img src="/images/vincent-profile.jpg" width="20%">
+<img src="/images/vincent-profile-one-cropped.jpeg" width="20%">
 
 # Vincent Breslin
 
 > Maker. Improver. Focused on the customer. Driven by simplicity.
+
+`product` `user experience` `hands-on` `team building` `value proposition` `mentoring`
 
 ---
 ## Summary
