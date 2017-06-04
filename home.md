@@ -85,7 +85,7 @@ Strategic thinking, getting things done, analysing data & making decisions, infl
 
 **Team building 🔨**
 
-I built a team of 7 from scratch at Sian's Plan and have hired at the majority of my previous roles. Engineers, designers and in operations. Externally I've briefed, sourced, interviewd and worked with a number of fantastic development and design contractors and agencies.
+I built a team of 7 (5 full time) from scratch at Sian's Plan and have hired at the majority of my previous roles. Engineers, designers and in operations. Externally I've briefed, sourced, interviewd and worked with a number of fantastic development and design contractors and agencies.
 
 **Solutions driven 🏁**
 
