@@ -71,31 +71,31 @@ Responsibilities
 
 ## Skills
 
-**User experience**
+**User experience 👌**
 
 A keen eye for detail and an understanding that design and engaging user journeys are crucial to satisfy today's consumers. I've had leading hands-on experience in the user experience design of all projects I've been involved in.
 
-**MVP and prototypes**
+**MVP and prototypes 💡**
 
 From customer devlopment through to final product, I develop beautifully designed, user friendly minimum viable products, wireframes and prototypes.
 
-**Product ownership**
+**Product ownership 🙋‍**
 
 Strategic thinking, getting things done, analysing data & making decisions, influencing others positively. I've worked with small and larger design teams, internal and external. I have a technical background and am very comfortable working with product teams.
 
-**Team building**
+**Team building 🔨**
 
 I built a team of 7 from scratch at Sian's Plan and have hired at the majority of my previous roles. Engineers, designers and in operations. Externally I've briefed, sourced, interviewd and worked with a number of fantastic development and design contractors and agencies.
 
-**Solutions driven**
+**Solutions driven 🏁**
 
 My natural curiosity & engineering background has taught me that problems are always solvable. Plan B, C , D or E aren't far away.
 
-**Business development**
+**Business development 🤝**
 
 We developed partnerships with all the major retailers in the UK (eg. Tesco), Eumom.ie (Irelands largest parenting website) and established working relationships with The Guardian & Unilever.
 
-**Fundraising**
+**Fundraising 💸**
 
 I didn't know where to start when I set out with Sian's Plan but after plenty of introductions, meetings, rejections(!) and investment I've built a good network and understanding of what investors need.
 
