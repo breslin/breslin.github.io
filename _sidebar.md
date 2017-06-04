@@ -2,7 +2,7 @@
   - [About me](/)
 
 
-- Portfolio
+- Case study
   - [Keepmebooked: travel/property tech](keepmebooked.md)
 
 - Articles & Videos
