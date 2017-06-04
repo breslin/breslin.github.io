@@ -1,4 +1,4 @@
-<img src="/docs/images/vincent-profile.jpg" width="20%">
+<img src="/images/vincent-profile.jpg" width="20%">
 
 # Vincent Breslin
 
@@ -48,6 +48,8 @@ Responsibilities
 * Strategy to migrate 60,000 members from partner company to Keepmebooked within an 18 month time‐frame. Including achieving product market fit and overcoming scalability and reliability issues.
 * Reengineering of the product from the ground up with a focus on reliability, user experience (UX) and design.
 
+<a href="/#/keepmebooked">Click here to see my Keepmebooked UX and UI case study ➩</a>
+
 > Founder & CEO of Sian’s Plan
 
 `food-tech` `health-tech` `building a team` `raising capital`
@@ -67,3 +69,34 @@ Responsibilities
 ---
 
 
+## Skills
+
+**User experience**
+
+A keen eye for detail and an understanding that design and engaging user journeys are crucial for today's consumers. I've had leading hands-on experience in the user experience design of all projects I've been involved in.
+
+**MVP and prototypes**
+
+I develop beautifully designed, user friendly, minimum viable products, wireframes and prototypes.
+
+**Product ownership**
+
+Strategic thinking, getting things done, analysing data & making decisions, influencing others positively.
+
+**Team building**
+
+We built a team of 7 at Sian's Plan. I have experience in hiring and all that entails.
+
+**Solutions driven**
+
+My natural curiosity & engineering background has taught me that problems are always solvable. Plan B, C , D or E aren't far away.
+
+**Business development**
+
+We developed partnerships with all the major retailers in the UK (eg. Tesco), Eumom.ie (Irelands largest parenting website) and established working relationships with The Guardian & Unilever.
+
+**Fundraising**
+
+A real necessity for a lot of startups. I didn't know where to start when I set out with Sian's Plan but after plenty of introductions, meetings and rejections(!) I've built a decent network.
+
+---

@@ -20,7 +20,7 @@ Our business objective was to transition the product from focusing on customers 
 
 I conducted over 20 hours of interviews in person and on Skype with vacation rental customers to understand their distinct needs.
 
-<img src="/docs/images/kmb-customer-dev-one.jpg" width="100%">
+<img src="/images/kmb-customer-dev-one.jpg" width="100%">
 *A summary slide from one of the customer interviews*
 
 > Discover key jobs, pains and gains 🔎
@@ -28,7 +28,7 @@ I conducted over 20 hours of interviews in person and on Skype with vacation ren
 From those interviews, customer key jobs, pains and gains were identified. This information was used to determine our core product and the changes needed to make to the existing product suitable.
 
 
-<img src="/docs/images/kmb-customer-dev-two.jpg" width="100%">
+<img src="/images/kmb-customer-dev-two.jpg" width="100%">
 *Key customer jobs, pains and gains for one customer segment*
 
 
@@ -43,7 +43,7 @@ Due to this research and analysis 3 customer segments were defined as well as th
 
  With these segments we were able to determine our product roadmap and develop our business model with great confidence. Initally we focused on the second segment as our existing product could be shaped to match their requirements without huge difficulty. The first segment was ruled out as the majority of users did not need a solution like Keepmebooked and those that did would not support our business model.
 
-<img src="/docs/images/business-model-canvas.png" width="100%">
+<img src="/images/business-model-canvas.png" width="100%">
 *Business model canvas*
 
 ---
@@ -65,7 +65,7 @@ With a firm understanding of the customer jobs, pains and gains I came up with a
 
 By understanding the user types and stories we can optimise how the software is used. The next step was to design the user journeys (the flows through the application we want a user to take) and logic flows. The aim of our user journey was to ensure the user sees value in the product as quickly as possible. This was a challenge as the on-boarding effort was high and to fully complete would take a number of days due to external integrations.
 
-<img src="/docs/images/web-app-flow.png" width="100%">
+<img src="/images/web-app-flow.png" width="100%">
 *Web app UX flow*
 
 
@@ -80,22 +80,22 @@ With the user journey laid out and features clear we moved on to the UX wirefram
 
 Once the general layout for key screens were in place we shared with a group of users for feedback - we were fortunate to have a number of our target customers already using the legacy platform. We used their responses and our own intuition to refine our designs.
 
-<img src="/docs/images/template.png" width="100%">
+<img src="/images/template.png" width="100%">
 *UX Template*
 
 The images below illustrate an example of our experimentation. A key user story was for the user to have quick access to booking information as they scrolled through and reviewed their calendar. The original UX was to have a tooltip pop-up over the booking on click. We realised this design was limited in that the booking information wasn't always consistent (eg. some would have long notes, some would have short and some none at all). We thought we could improve, whislt keeping the speed and ease of accessing this information. The second image shows the preferred solution - a sliding panel. The sliding panel allowed an appealing structure whilst promoting key information and actions (eg. send the guest a message).
 
-<img src="/docs/images/calendar-tootlip-one.png" width="100%">
+<img src="/images/calendar-tootlip-one.png" width="100%">
 *Tooltip to display booking information*
 
-<img src="/docs/images/calendar-tootlip-two.png" width="100%">
+<img src="/images/calendar-tootlip-two.png" width="100%">
 *Dedicated panel to display booking information*
 
 **Further refinement**
 
 The UX changed again slightly post design - the booking sliding panel was moved to the right hand side. We discovered through user testing and screen recordings that users typically interacted with the left hand side of the calendar where todays date (and immediate future/past days) was displayed.
 
-<img src="/docs/images/user-flow.gif" width="100%">
+<img src="/images/user-flow.gif" width="100%">
 *UX interactive wires created using Balsamiq*
 ___
 
@@ -106,5 +106,5 @@ ___
 
 As you can see the original user interface was outdated. It was also clumbsy without a coherent structure to the user flow. Our UX work fixed the user flow, now to the design.
 
-<img src="/docs/images/keepmebooked-original.png" width="100%">
+<img src="/images/keepmebooked-original.png" width="100%">
 
