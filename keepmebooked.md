@@ -92,9 +92,9 @@ With the user journey laid out and features clear we moved on to the UX wirefram
 
 First the first few drafts for key screens in place we shared with a group of users for feedback - we were fortunate to have a number of our target customers already using the legacy platform. We used their responses and our own intuition to refine the designs.
 
-**Example experiment: Toolip or sliding panel?**
+**Example experiment: Tooltip or sliding panel?**
 
-A key UX requirement was for the user to have quick access to booking information as they scrolled through and reviewed their calendar. The original UX was to include a tooltip pop-up over the booking on user click. We realised this design was limited in that the booking information wasn't always consistent (eg. some bookings have long notes, some short and others none at all). We thought we could improve, whislt keeping the speed and ease of accessing this information. The second image shows the preferred solution - a sliding panel. The sliding panel offered a practical and appealing structure whilst promoting key information and actions (eg. send the guest a message).
+A key UX requirement was for the user to have quick access to booking information as they scrolled through and reviewed their calendar. The original UX was to include a tooltip pop-up over the booking on user click. We realised this design was limited in that the booking information wasn't always consistent (eg. some bookings have long notes, some short and others none at all). We thought we could improve, whilst keeping the speed and ease of accessing this information. The second image shows the preferred solution - a sliding panel. The sliding panel offered a practical and appealing structure whilst promoting key information and actions (eg. send the guest a message).
 
 <img src="/images/calendar-tootlip-one.png" width="100%">
 *Tooltip to display booking information*
@@ -104,7 +104,7 @@ A key UX requirement was for the user to have quick access to booking informatio
 
 **Further refinement**
 
-The UX changed again slightly post design - the booking sliding panel was moved to the right hand side. We discovered through user testing and screen recordings that users typically interacted with the left hand side of the calendar where todays date (and immediate future/past days) was displayed.
+The UX changed again slightly post design - the booking sliding panel was moved to the right-hand side. We discovered through user testing and screen recordings that users typically interacted with the left-hand side of the calendar where today's date (and immediate future/past days) was displayed.
 
 <img src="/images/user-flow.gif" width="100%">
 *UX interactive wires created using Balsamiq*
@@ -122,9 +122,9 @@ A vacation rental owner typically meets the guest for check-in at a location whi
 
 **Example challenge: creating a booking**
 
-To create a booking on the web app the user scrolled to the correct date on the calendar, clicked on the check in date and dragged to the check out date. On web this offered a quick, easy and intuitive method of creating a booking. The user could see at a glance if there was availability on any of their properties and could respond to the potential guest immediately if they were on the phone and quickly via email.
+To create a booking on the web app the user scrolled to the correct date on the calendar, clicked on the check in date and dragged to the check out date. On web, this offered a quick, easy and intuitive method of creating a booking. The user could see at a glance if there was availability on any of their properties and could respond to the potential guest immediately if they were on the phone and quickly via email.
 
-A similar interaction with the calendar on mobile would not work. The view was too small (up to 7 days where a booking would often be 2 weeks or more) and dragging was clumbsy. To achieve the goal of 'quickly assessing availability and creating a booking' we took an entirely different approach. On mobile a user would:
+A similar interaction with the calendar on mobile would not work. The view was too small (up to 7 days where a booking would often be 2 weeks or more) and dragging was clumsy. To achieve the goal of 'quickly assessing the availability and creating a booking' we took an entirely different approach. On mobile a user would:
 
 1. select 'new booking' (a primary action button)
 2. select the date of check in, the booking duration and any other key info (eg. # of guests)
@@ -143,7 +143,7 @@ The user could then relay the options to the guest and create the booking in sec
 
 As with the web app, each screen was mocked-up with annotations (examples below). Once the first draft was complete it was shared with our iOS developer to get feedback from an iOS standard perspective. I find that this step provides great value so we avoid designing elements that are impractical or don't translate well to different screen sizes. An example of the feedback from the iOS designer was to remove 'pop-up' screens - which we did.
 
-The next draft of screens were shared with our customer testing group using Invision so they could test the flow as well in addition to the information and actions on each screen. We iterated again based on their feedback.
+The next draft of screens was shared with our customer testing group using Invision so they could test the flow as well in addition to the information and actions on each screen. We iterated again based on their feedback.
 
 <img src="/images/mobile-one.png" style="border: 1px solid #e1e1e1;" width="100%">
 
@@ -163,5 +163,5 @@ With the final screen mockups completed our designer got to work on the user int
 
 We were halfway through the redevelopment of the web (we decided to rebuild the codebase from scratch as the legacy codebase was unscalable) and mobile app when the business was acquired by TripAdvisor and discontinued.
 
-Prior to discontinuation I increased Average Revenue per User (ARPU) of the legacy app by 25% by focusing on killer features and optimising work flows.
+Prior to discontinuation, I increased Average Revenue per User (ARPU) of the legacy app by 25% by focusing on killer features and optimising work-flows.
 
