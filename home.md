@@ -9,11 +9,11 @@
 ---
 ## Summary
 
-Founder of <a href="http://www.uplisting.io" target="blank">Uplisting</a> and General Manager at <a href="https://angel.co/immergent-solutions" target="blank">Immergent Solutions</a>.
+Founder of <a href="http://www.uplisting.io" target="blank">Uplisting</a>.
 
 Full‐stack, hands‐on lead with expertise in product design, development, acquisition and retention. Focused on creating value through a deep understanding of customer challenges and needs.
 
-Former Managing Director of Keepmebooked (acquired by TripAdvisor) and founder and CEO of Sian’s Plan where we raised over $500k investment, developed a multi-award winning product with over 10k members and built a team of 5 full-time staff. MSc in Engineering with distinction.
+Former Managing Director of Keepmebooked (acquired by TripAdvisor) and founder of Sian’s Plan where we raised over $500k investment, developed a multi-award winning product with over 10k members and built a team of 5 full-time staff. MSc in Engineering with distinction.
 
 ---
 
